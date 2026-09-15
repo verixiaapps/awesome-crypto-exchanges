@@ -53,6 +53,8 @@
 - **[Investopedia's Guide to Cryptocurrency Exchanges](https://www.investopedia.com/best-crypto-exchanges-5071855)** - An in-depth guide covering the basics of cryptocurrency exchanges and how to choose one.
 - **[CoinDesk Learn](https://www.coindesk.com/learn/)** - Offers articles and tutorials on various aspects of cryptocurrency trading and exchanges.
 - **[Binance Academy](https://academy.binance.com/)** - Provides educational content on blockchain, cryptocurrencies, and trading strategies.
+- [HostDeFi](https://hostdefi.com) - Free token-safety scanner: A+–F grades from on-chain checks (mint/freeze authority, liquidity depth, holder concentration, contract flags) across Solana and 8 EVM chains.
+
 
 ## Community and Forums
 
